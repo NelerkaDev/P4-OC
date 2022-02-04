@@ -302,7 +302,7 @@ a:hover {
 }
 
 .navbar-brand img {
-    max-height: 200px;
+    max-height: 50px;
     margin: 0 5px 0 0;
     display: inline;
 }
@@ -830,6 +830,15 @@ h4 {
 .icon-dark-slate-blue {
     color: #364577!important;
     border-color: #364577!important;
+}
+/*
+    Ajout du css pour la classe .image-resize-mode
+    Width: 100px;
+    Height: 100px;
+*/
+.image-resize-mode {
+    width: 100px;
+    height: 100px;
 }
 
 .bg-dots-bg {
